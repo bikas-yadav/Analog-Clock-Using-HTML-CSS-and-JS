@@ -22,4 +22,4 @@ This project is related to developing an analog clock by using pure HTML,CSS  an
 
 ## Project Preview:
 
-[Analog Clock JS](https://alitahir4024.github.io/Analog-Clock-JS/)
+[Analog Clock Made By Bikash Yadav](http://127.0.0.1:5500/index.html)
